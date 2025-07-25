@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Carlos Del Valle"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Carlos Del Valle"
+description              : "Data Analyst | Data Product Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,7 +30,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true # false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://media.licdn.com/dms/image/v2/D5603AQHvq30S3S9XRg/profile-displayphoto-scale_400_400/B56ZhADeFKHUAk-/0/1753421309893?e=1756339200&v=beta&t=3XdL7E-RCVq-mHITTBLrd2cW7Zf0bEIAxrfq4p5qFzs
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "🗺️ Aguascalientes, Mexico"
   email            :
   links:
     - label: "Email"
