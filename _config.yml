@@ -116,9 +116,15 @@ author:
   name             : "Your Name"
   avatar           : https://media.licdn.com/dms/image/v2/D5603AQHvq30S3S9XRg/profile-displayphoto-scale_400_400/B56ZhADeFKHUAk-/0/1753421309893?e=1756339200&v=beta&t=3XdL7E-RCVq-mHITTBLrd2cW7Zf0bEIAxrfq4p5qFzs
   bio              : "I am an **amazing** person."
-  location         : "🗺️ Aguascalientes, Mexico"
-  email            :
+  location         : "Aguascalientes, MX"
+  email            : 
   links:
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url:  "https://www.linkedin.com/in/carlos-del-valle-reyes/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/c-delvalle-r"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -131,9 +137,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
