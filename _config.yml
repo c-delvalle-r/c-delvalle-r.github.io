@@ -113,14 +113,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Carlos Del Valle"
   avatar           : https://media.licdn.com/dms/image/v2/D5603AQHvq30S3S9XRg/profile-displayphoto-scale_400_400/B56ZhADeFKHUAk-/0/1753421309893?e=1756339200&v=beta&t=3XdL7E-RCVq-mHITTBLrd2cW7Zf0bEIAxrfq4p5qFzs
-  bio              : "I am an **amazing** person."
+  bio              : "Data Analyst | Data Product Developer"
   location         : "Aguascalientes, MX"
   email            : 
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url:  "https://www.linkedin.com/in/carlos-del-valle-reyes/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
