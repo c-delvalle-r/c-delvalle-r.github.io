@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Del Valle"
-  avatar           : https://media.licdn.com/dms/image/v2/D5603AQHvq30S3S9XRg/profile-displayphoto-scale_400_400/B56ZhADeFKHUAk-/0/1753421309893?e=1756339200&v=beta&t=3XdL7E-RCVq-mHITTBLrd2cW7Zf0bEIAxrfq4p5qFzs
+  avatar           : "/assets/images/profile_picture.jpg"
   bio              : "Data Analyst - Data Product Developer"
   location         : "Aguascalientes, MX"
   email            : 
