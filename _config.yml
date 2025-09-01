@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Del Valle"
-  avatar           : "/assets/images/profile_picture.jpg"
+  avatar           : "/images/profile_picture.jpg"
   bio              : "Data Analyst - Data Product Developer"
   location         : "Aguascalientes, MX"
   email            : 
