@@ -1,5 +1,7 @@
 ---
 title: Portfolio
-permalink: /_posts/
-layout: archive
+permalink: /portfolio/
+layout: single
 ---
+
+[Mexico Toy Sales](/portfolio/mexico_toys_sales/)
