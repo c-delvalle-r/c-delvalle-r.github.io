@@ -1,6 +1,6 @@
 ---
 title: Portfolio
 permalink: /portfolio/
-layout: collections
+layout: collection
 collection: portfolio
 ---

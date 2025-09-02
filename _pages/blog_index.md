@@ -1,6 +1,6 @@
 ---
 title: Blog Posts
 permalink: /blog/
-layout: collections
+layout: collection
 collection: blog
 ---
