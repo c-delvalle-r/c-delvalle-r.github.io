@@ -2,13 +2,13 @@
 main:
   - title: "CV / Resume"
     url: /resume/
-  - title: "Sample Posts"
-    url: /year-archive/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: "Portfolio"
     url: /portfolio/
+  - titel: "Blog"
+    url: /blog/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

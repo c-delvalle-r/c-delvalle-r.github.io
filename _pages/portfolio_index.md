@@ -1,7 +1,6 @@
 ---
 title: Portfolio
 permalink: /portfolio/
-layout: single
+layout: collection
+collection: portfolio
 ---
-
-[Mexico Toy Sales](/portfolio/mexico_toys_sales/)
