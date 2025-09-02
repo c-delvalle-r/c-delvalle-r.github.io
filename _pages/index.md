@@ -1,6 +1,6 @@
 ---
 title: Blog Posts
-layout: archive
+layout: posts
 permalink: /year-archive/
 ---
 
