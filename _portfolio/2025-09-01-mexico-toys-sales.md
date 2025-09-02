@@ -4,13 +4,14 @@ toc: true
 toc_sticky: true
 tags: powerbi sql dashboard
 draft: false
+tags: SQL PowerBI
 ---
 
 # Mexico Toy Sales
 
 Data project from Mexico toy sales dataset from a fictional company from mavenanalytics.io.
 
-Dataset: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=mexico%20toy
+[Go to dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=mexico%20toy)
 
 ### Data Stack Used:
 > MySQL, DBngin, dBeaver, PowerBI
