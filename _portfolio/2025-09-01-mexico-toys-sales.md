@@ -1,7 +1,5 @@
 ---
 title: Mexico Toy Sales Project
-permalink: /portfolio/mexico_toys_sales/
-layout: single
 toc: true
 toc_sticky: true
 tags: powerbi sql dashboard
