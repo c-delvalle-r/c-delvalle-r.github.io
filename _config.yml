@@ -346,6 +346,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: true
+      read_time: true
   #_blog
   - scope:
       path: ""
