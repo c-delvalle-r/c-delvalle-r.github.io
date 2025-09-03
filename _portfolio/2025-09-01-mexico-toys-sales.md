@@ -3,7 +3,7 @@ title: Mexico Toy Sales Project
 toc: true
 toc_sticky: true
 tags: powerbi sql dashboard
-draft: false
+draft: true
 tags: SQL PowerBI
 ---
 
@@ -95,14 +95,6 @@ create table maven_toys_sales.dim_product as (
 
 10. Create the summary view.
 
-[Summary Dashboard]()
 
 11. Create other supporting views with more details.
-
-<figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
 
