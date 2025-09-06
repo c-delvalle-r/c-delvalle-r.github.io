@@ -44,7 +44,7 @@ title: Resume
 Addressed class imbalance using SMOTE, 
 Tested different Machine Learning algorithms, used cross-validation and adjusted hyper-parameters taking over-fitting into account. Best scores maxed out at 0.67 recall score.
 
-**[Housing Looker Dashboard Report](https://lookerstudio.google.com/reporting/d8c4f950-52f0-43e0-a46e-59a69fe2bd60) | Mar 2024**
+**[Housing Looker Dashboard Report]**(https://lookerstudio.google.com/reporting/d8c4f950-52f0-43e0-a46e-59a69fe2bd60) **| Mar 2024**
 - Designed a Dashboard report in Looker Studio to analyze a housing dataset to identify the main factors that drive a house’s price.
 - Employed slicers and different visualizations such as bar charts, line graphs, tables and maps.
 
