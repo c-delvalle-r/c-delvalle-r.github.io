@@ -7,9 +7,7 @@ draft: true
 tags: SQL PowerBI
 ---
 
-# Mexico Toy Sales
-
-Data project from Mexico toy sales dataset from a fictional company from mavenanalytics.io.
+Data project from Mexico toy sales dataset from a fictional company Maven Toys.
 
 [Go to dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=mexico%20toy)
 
