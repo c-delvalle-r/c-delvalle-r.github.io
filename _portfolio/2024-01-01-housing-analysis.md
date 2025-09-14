@@ -1,7 +1,6 @@
 ---
 title: Housing Analysis Report in Looker Studio
-toc: false
-toc_sticky: false
+layout: wide
 tags: looker-studio
 excerpt: Machine learning models to predict when a patient will miss their medical appointment!
 ---
