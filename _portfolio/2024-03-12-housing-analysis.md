@@ -4,6 +4,7 @@ layout: single
 classes: wide
 tags: looker-studio
 excerpt: Machine learning models to predict when a patient will miss their medical appointment!
+post_order: 99
 ---
 
 This was the capstone project I presented in my Data Analyst Certification from EBAC. 
