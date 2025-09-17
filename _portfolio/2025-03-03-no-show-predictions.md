@@ -4,7 +4,6 @@ toc: true
 toc_sticky: true
 tags: python sklearn machine-learning exploratory-data-analysis
 excerpt: Machine learning models to predict when a patient will miss their medical appointment!
-post_order: 2
 ---
 
 This was the final project I presented for my Data Science and Applied AI Certification. [This dataset](https://www.kaggle.com/datasets/wajahat1064/healthcare-appointment-dataset/data) found in Kaggle, has Brazil data regarding patients, their medical appointments and whether they showed up or not.

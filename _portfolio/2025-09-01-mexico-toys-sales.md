@@ -5,7 +5,6 @@ toc_sticky: true
 tags: powerbi sql dashboard
 draft: true
 tags: SQL PowerBI
-post_order: 3
 ---
 
 Data project from Mexico toy sales dataset from a fictional company Maven Toys.
