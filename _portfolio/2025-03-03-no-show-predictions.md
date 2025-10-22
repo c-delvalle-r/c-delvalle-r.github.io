@@ -4,6 +4,7 @@ toc: true
 toc_sticky: true
 tags: python sklearn machine-learning exploratory-data-analysis
 excerpt: Machine learning models to predict when a patient will miss their medical appointment!
+permalink: /:collection/no-show-predictions
 ---
 
 This was the final project I presented for my Data Science and Applied AI Certification. [This dataset](https://www.kaggle.com/datasets/wajahat1064/healthcare-appointment-dataset/data) found in Kaggle, has Brazil data regarding patients, their medical appointments and whether they showed up or not.
@@ -26,7 +27,7 @@ This was the final project I presented for my Data Science and Applied AI Certif
     5. Evaluation: Identify the most important evaluation metrics for the task at hand and evaluate the model (we included **cross validation** and making sure the model does not fall into over-fitting)
     6. Deployment: This is out of scope for this project. Deployment would be done after a model is deemed good enough for the business' requirement and is put in production.
 
-![crisp-dm methodology](/assets/images/CRISP-DMBasics.jpg)
+![crisp-dm methodology](/assets/images/CRISP-DMBasics.jpg){: .align-center}
 
 ## Skills
 - Python
