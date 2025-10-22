@@ -26,7 +26,7 @@ This was the final project I presented for my Data Science and Applied AI Certif
     5. Evaluation: Identify the most important evaluation metrics for the task at hand and evaluate the model (we included **cross validation** and making sure the model does not fall into over-fitting)
     6. Deployment: This is out of scope for this project. Deployment would be done after a model is deemed good enough for the business' requirement and is put in production.
 
-![crisp-dm methodology](assets/images/CRISP-DMBasics.jpg)
+![crisp-dm methodology](/assets/images/CRISP-DMBasics.jpg)
 
 ## Skills
 - Python
