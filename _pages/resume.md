@@ -40,7 +40,7 @@ author_profile: true
 
 ## FEATURED PROJECTS
 
-**[Medical Patient No-Show Prediction Model](/portfolio/no-show-predictions.md) | Feb 2025**
+**[Medical Patient No-Show Prediction Model](/portfolio/2025-03-03-no-show-predictions.md) | Feb 2025**
 - Employed the CRISP-DM framework to conduct a data science project to predict patients that did not show up to their medical appointments using a dataset from Kaggle.
 Addressed class imbalance using SMOTE, 
 Tested different Machine Learning algorithms, used cross-validation and adjusted hyper-parameters taking over-fitting into account. Best scores maxed out at 0.67 recall score.
