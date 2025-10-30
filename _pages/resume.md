@@ -31,7 +31,7 @@ author_profile: true
 - Design of self-service reports in Tableau
 
 ### Gestamp
-**Becario de Logistica Sep 2021 - Dec 2021**
+**Intern - Logistics App Development | Sep 2021 - Dec 2021**
 - Designed and coded a web application to monitor on-premise cargo units.
 - Designed and implemented database architecture using MySQL.
 - Implemented CRUD functions to interact with the database through the web app front end interface.
@@ -42,8 +42,8 @@ author_profile: true
 
 **[Medical Patient No-Show Prediction Model](/portfolio/no-show-predictions/) | Feb 2025**
 - Employed the CRISP-DM framework to conduct a data science project to predict patients that did not show up to their medical appointments using a dataset from Kaggle.
-Addressed class imbalance using SMOTE, 
-Tested different Machine Learning algorithms, used cross-validation and adjusted hyper-parameters taking over-fitting into account. Best scores maxed out at 0.67 recall score.
+- Addressed class imbalance using SMOTE, 
+- Tested different Machine Learning algorithms, used cross-validation and adjusted hyper-parameters taking over-fitting into account. Best scores maxed out at 0.67 recall score.
 
 **[Housing Looker Dashboard Report](https://lookerstudio.google.com/reporting/d8c4f950-52f0-43e0-a46e-59a69fe2bd60) | Mar 2024**
 - Designed a Dashboard report in Looker Studio to analyze a housing dataset to identify the main factors that drive a house’s price.
