@@ -58,7 +58,7 @@ Automated expense data analysis report by project type to drive decision making.
 
 
 ## Certifications
-- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/CarlosDelValle-1703/D9AE76C32D2E2BE9?sharingId=7B8EBC53BB1CE5C9) | (2026)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/CarlosDelValle-1703/D9AE76C32D2E2BE9?sharingId=7B8EBC53BB1CE5C9)
 
 
 
