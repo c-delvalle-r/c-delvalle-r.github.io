@@ -57,6 +57,10 @@ author_profile: true
 Automated expense data analysis report by project type to drive decision making.
 
 
+## Certifications
+- [Microsoft Certified: Power BI Data Analyst Associate (2026)](https://learn.microsoft.com/api/credentials/share/en-us/CarlosDelValle-1703/D9AE76C32D2E2BE9?sharingId=7B8EBC53BB1CE5C9)
+
+
 ## EDUCATION
 
 **Data Science and Applied AI Certification | Tecnológico de Monterrey | Apr 2024 - Oct 2024**
